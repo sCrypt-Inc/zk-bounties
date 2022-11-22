@@ -1,0 +1,12 @@
+[submodule "sudoku-bounty"]
+	path = sudoku-bounty
+	url = https://github.com/sCrypt-Inc/sudoku-bounty
+[submodule "rsa-bounty"]
+	path = rsa-bounty
+	url = git@github.com:sCrypt-Inc/scrypt-rsa-bounty.git
+[submodule "hash-collision-bounty"]
+	path = hash-collision-bounty
+	url = git@github.com:sCrypt-Inc/scrypt-hash-collision-bounty.git
+[submodule "decryption-key-bounty"]
+	path = decryption-key-bounty
+	url = git@github.com:sCrypt-Inc/scrypt-decryption-key-bounty.git
